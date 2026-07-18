@@ -3,3 +3,5 @@ pymupdf
 uvicorn
 python-multipart
 sqlalchemy
+pydantic
+pydantic-settings
